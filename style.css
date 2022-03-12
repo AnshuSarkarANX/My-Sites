@@ -12,14 +12,18 @@ h1{
 /*class selectors*/
 .name{
   background-color:ghostwhite ;
-  padding: 20px;
+  padding-top:100px;
+  position: relative;
 
 }
 .t-cloud{
   position: absolute;
-
+  right:300px;
+  top:50px;
 }
 .b-cloud{
   position: absolute;
+  left:300px;
+  bottom:300px;
 
 }
