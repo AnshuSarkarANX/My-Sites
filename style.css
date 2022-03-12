@@ -5,8 +5,17 @@ body{
 }
 h1{
   margin-top: 0px;
+  font-family: 'Rock Salt', cursive;
+}
+span{
+  color: indigo;
 }
 
+/*fonts
+font-family: 'Anonymous Pro', monospace;
+font-family: 'Hi Melody', cursive;
+font-family: 'Sanchez', serif;
+font-family: 'Short Stack', cursive;*/
 
 
 /*class selectors*/
@@ -26,4 +35,7 @@ h1{
   left:300px;
   bottom:300px;
 
+}
+.webd{
+  font-family: 'Press Start 2P', cursive;
 }
