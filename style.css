@@ -1,8 +1,7 @@
 body{
-  background-color: antiquewhite;
-    margin-right: 0px;
-    margin-left: 0px;
-    margin-top: 0px;
+  background-color: whitesmoke;
+  margin: 0;
+  text-align: center;
 }
 h1{
   margin-top: 0px;
@@ -12,18 +11,15 @@ h1{
 
 /*class selectors*/
 .name{
-  background-color: lavender;
+  background-color:ghostwhite ;
   padding: 20px;
 
 }
-.top-container{
-  background-color: skyblue;
-  height: 200px;
-  width: 200px;
+.t-cloud{
+  position: absolute;
+
 }
-.bottom-container
-{
-  background-color: tomato;
-  height: 200px;
-  width: 200px;
+.b-cloud{
+  position: absolute;
+
 }
