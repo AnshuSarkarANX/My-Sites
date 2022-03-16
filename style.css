@@ -1,61 +1,69 @@
-body{
+body {
   background-color: whitesmoke;
   margin: 0;
   text-align: center;
 }
-h1{
-  margin:50px auto 0;
+
+h1 {
+  margin: 50px auto 0;
   font-family: 'Rock Salt', cursive;
   color: #66BFBF;
+  line-height: 3;
 }
-h2{
+
+h2 {
   color: #66BFBF;
+  font-weight: normal;
 }
-h3{
+
+h3 {
   color: #11999E;
-
 }
-a{
-  color:#11999E;
 
+a {
+  color: #11999E;
 }
+
 /*fonts
 font-family: 'Anonymous Pro', monospace;
 font-family: 'Hi Melody', cursive;
 font-family: 'Sanchez', serif;
 font-family: 'Short Stack', cursive;*/
-
-
 /*class selectors*/
-.name{
-  background-color:ghostwhite ;
-  padding-top:100px;
+.name {
+  background-color: ghostwhite;
+  padding-top: 100px;
   position: relative;
-
 }
-.Anshu{
+
+.Anshu {
   font-size: 5.5rem;
 }
-.t-cloud{
-  position: absolute;
-  right:300px;
-  top:50px;
-}
-.b-cloud{
-  position: absolute;
-  left:300px;
-  bottom:300px;
 
+.t-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
 }
-.webd{
+
+.b-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.webd {
   font-family: 'Press Start 2P', cursive;
   font-size: 2.5rem;
-
 }
-.webds{
+
+.webds {
   color: indigo;
 }
-.dragongif{
-  border: 0;
 
+.dragongif {
+  border: 0;
+}
+.skill-row{
+  display: inline-block;
 }
