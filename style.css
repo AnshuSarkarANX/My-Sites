@@ -54,7 +54,7 @@ font-family: 'Short Stack', cursive;*/
 
 .webd {
   font-family: 'Press Start 2P', cursive;
-  font-size: 2.5rem;
+  font-size: 2.5rem
 }
 
 .webds {
@@ -69,4 +69,12 @@ font-family: 'Short Stack', cursive;*/
   margin: 100px auto;
   text-align: left;
   line-height: 4;
+}
+.wdpng{
+height: 40vh;
+width: 50vw;
+}
+.lappng{
+  height: 250px;
+  width: 300px;
 }
