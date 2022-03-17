@@ -68,13 +68,17 @@ font-family: 'Short Stack', cursive;*/
   width:50%;
   margin: 100px auto;
   text-align: left;
-  line-height: 4;
+  line-height: 2;
 }
 .wdpng{
-height: 40vh;
-width: 50vw;
+height: 250px;
+width: 300px;
+float:left;
+margin: 30px;
 }
 .lappng{
   height: 250px;
   width: 300px;
+  float: right;
+  margin: 30px
 }
