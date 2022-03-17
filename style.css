@@ -66,5 +66,5 @@ font-family: 'Short Stack', cursive;*/
 }
 .skill-row{
   width:50%;
-  text-align:center;
+  margin: 100px auto;
 }
