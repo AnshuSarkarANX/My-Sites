@@ -23,7 +23,10 @@ h3 {
 a {
   color: #11999E;
 }
+hr{
 
+
+}
 /*fonts
 font-family: 'Anonymous Pro', monospace;
 font-family: 'Hi Melody', cursive;
@@ -82,3 +85,5 @@ margin: 30px;
   float: right;
   margin: 30px
 }
+.bottom-container
+{background-color: #66BFBF}
