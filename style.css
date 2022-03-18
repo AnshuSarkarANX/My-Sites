@@ -8,22 +8,19 @@ body {
 h1 {
   margin: 50px auto 0;
   font-family: 'Rock Salt', cursive;
-  color: #66BFBF;
+  color: #11999E;
   line-height: 3;
 }
 
 h2 {
-  color: #66BFBF;
+  color: #11999E;
   font-weight: normal;
 }
 
 h3 {
-  color: #11999E;
+  color: #66BFBF;
 }
 
-a {
-  color: #11999E;
-}
 hr{
  padding: 5px;
  border-color:#CBCFCF;
@@ -94,19 +91,19 @@ margin: 30px;
 .bottom-container
 {background-color: #66BFBF}
 .btn {
-  background: #30a6f0;
-  background-image: -webkit-linear-gradient(top, #30a6f0, #238bfa);
-  background-image: -moz-linear-gradient(top, #30a6f0, #238bfa);
-  background-image: -ms-linear-gradient(top, #30a6f0, #238bfa);
-  background-image: -o-linear-gradient(top, #30a6f0, #238bfa);
-  background-image: linear-gradient(to bottom, #30a6f0, #238bfa);
-  -webkit-border-radius: 13;
-  -moz-border-radius: 13;
-  border-radius: 13px;
-  font-family: Arial;
+  background: #34afba;
+  background-image: -webkit-linear-gradient(top, #34afba, #2d8991);
+  background-image: -moz-linear-gradient(top, #34afba, #2d8991);
+  background-image: -ms-linear-gradient(top, #34afba, #2d8991);
+  background-image: -o-linear-gradient(top, #34afba, #2d8991);
+  background-image: linear-gradient(to bottom, #34afba, #2d8991);
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Georgia;
   color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  font-size: 17px;
+  padding: 5px 5px 5px 5px;
   border: solid #1f628d 1px;
   text-decoration: none;
 }
