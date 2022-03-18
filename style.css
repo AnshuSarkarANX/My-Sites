@@ -2,6 +2,7 @@ body {
   background-color: whitesmoke;
   margin: 0;
   text-align: center;
+  font-family: 'Sanchez', serif;
 }
 
 h1 {
@@ -24,7 +25,7 @@ a {
   color: #11999E;
 }
 hr{
-
+ margin: 5px;
 
 }
 /*fonts
@@ -113,4 +114,16 @@ margin: 30px;
   background-image: -o-linear-gradient(top, #5492f0, #7161ff);
   background-image: linear-gradient(to bottom, #5492f0, #7161ff);
   text-decoration: none;
+}
+.contact-me{
+  margin-bottom: 30px;
+}
+.bottom-container{
+  padding: 10px;
+}
+.footer-link{
+  color:#055860;
+  padding: 3px;
+font-family: 'Short Stack', cursive;
+
 }
