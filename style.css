@@ -25,7 +25,12 @@ a {
   color: #11999E;
 }
 hr{
- margin: 5px;
+ padding: 5px;
+ border-color:#CBCFCF;
+ border-style: none;
+ border-top-style: dotted;
+ border-width: 8px;
+ width: 8%;
 
 }
 /*fonts
@@ -119,11 +124,16 @@ margin: 30px;
   margin-bottom: 30px;
 }
 .bottom-container{
-  padding: 10px;
+  padding: 25px;
 }
 .footer-link{
   color:#055860;
-  padding: 3px;
+  padding:3px;
 font-family: 'Short Stack', cursive;
+text-decoration:none;
 
+}
+.footer-link:hover{
+  text-decoration:underline;
+  color:#ffffff;
 }
