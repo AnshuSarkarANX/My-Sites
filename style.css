@@ -6,10 +6,11 @@ body {
 }
 
 h1 {
-  margin: 50px auto 0;
+  margin: 50px 0 0;
   font-family: 'Rock Salt', cursive;
   color: #11999E;
   line-height: 3;
+  padding: 0 40px 0;
 }
 
 h2 {
@@ -43,7 +44,12 @@ font-family: 'Short Stack', cursive;*/
 }
 
 .Anshu {
-  font-size: 5.5rem;
+  font-size: 5rem;
+}
+/*name span*/
+.a1
+{
+  padding: 0;
 }
 
 .t-cloud {
@@ -57,14 +63,219 @@ font-family: 'Short Stack', cursive;*/
   left: 300px;
   bottom: 300px;
 }
+/*that color changing span*/
+.a {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+}
 
-.webd {
+.w {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+  color: indigo;
+  margin-left: 30px;
+}
+
+.e1 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+  color: indigo;
+}
+.b {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+  color: indigo;
+  margin-right: 30px;
+}
+
+.d {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+}
+
+.e2 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+}
+
+.v {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+}
+
+.e3 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+}
+
+.l {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+}
+
+.o {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+}
+
+.p {
   font-family: 'Press Start 2P', cursive;
   font-size: 2.5rem
 }
 
-.webds {
-  color: indigo;
+.e4 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+}
+
+.r {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+}
+/*color changing hover*/
+.a:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:red;
+}
+
+.w:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:orange;
+  margin-left: 30px;
+}
+
+.e1:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:yellow;
+}
+
+.b:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:green;
+  margin-right: 30px;
+}
+
+.d:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:blue;
+}
+
+.e2:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:indigo;
+}
+
+.v:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:violet;
+}
+
+.e3:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:indigo;
+}
+
+.l:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:blue;
+}
+
+.o:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:green;
+}
+
+.p:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:yellow;
+}
+
+.e4:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:orange;
+}
+
+.r:hover {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color:red;
+}
+
+.i:hover {
+  font-size: 5.5rem;
+  color:red;
+}
+
+.m:hover {
+  font-size: 5.5rem;
+  color:orange;
+}
+
+.a1:hover {
+  font-size: 5.5rem;
+  color:yellow;
+}
+
+.n:hover {
+  font-size: 5.5rem;
+  color:green;
+}
+
+.s:hover {
+  font-size: 5.5rem;
+  color:blue;
+}
+
+.h:hover {
+  font-size: 5.5rem;
+  color:indigo;
+}
+
+.u:hover {
+  font-size: 5.5rem;
+  color:violet;
+}
+
+.s:hover {
+  font-size: 5.5rem;
+  color:indigo;
+}
+
+.a2:hover {
+  font-size: 5.5rem;
+  color:blue;
+}
+
+.r1:hover {
+  font-size: 5.5rem;
+  color:green;
+}
+
+.k:hover {
+  font-size: 5.5rem;
+  color:yellow;
+}
+
+.a3:hover {
+  font-size: 5.5rem;
+  color:orange;
+}
+
+.r3:hover {
+  font-size: 5.5rem;
+  color:red;
 }
 
 .dragongif {
