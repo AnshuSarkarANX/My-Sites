@@ -142,26 +142,26 @@ font-family: 'Short Stack', cursive;*/
 .w:hover {
   font-family: 'Press Start 2P', cursive;
   color:orange;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
   margin-left: 30px;
 }
 
 .e1:hover {
   font-family: 'Press Start 2P', cursive;
   color:yellow;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .b:hover {
   font-family: 'Press Start 2P', cursive;
   color:green;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
   margin-right: 30px;
 }
 
 .d:hover {
   font-family: 'Press Start 2P', cursive;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
   color:blue;
 }
 
@@ -172,109 +172,109 @@ font-family: 'Short Stack', cursive;*/
 
 .v:hover {
   font-family: 'Press Start 2P', cursive;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
   color:violet;
 }
 
 .e3:hover {
   font-family: 'Press Start 2P', cursive;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
   color:indigo;
 }
 
 .l:hover {
   font-family: 'Press Start 2P', cursive;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
   color:blue;
 }
 
 .o:hover {
   font-family: 'Press Start 2P', cursive;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
   color:green;
 }
 
 .p:hover {
   font-family: 'Press Start 2P', cursive;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
   color:yellow;
 }
 
 .e4:hover {
   font-family: 'Press Start 2P', cursive;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
   color:orange;
 }
 
 .r:hover {
   font-family: 'Press Start 2P', cursive;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
   color:red;
 }
 
 .i:hover {
   color:red;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .m:hover {
   color:orange;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .a1:hover {
   color:yellow;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .n:hover {
   color:green;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .s:hover {
   color:blue;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .h:hover {
   color:indigo;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .u:hover {
   color:violet;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .s:hover {
   color:indigo;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .a2:hover {
   color:blue;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .r1:hover {
   color:green;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .k:hover {
   color:yellow;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .a3:hover {
   color:orange;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .r2:hover {
   color:red;
-  filter: drop-shadow(1px 0px 2px inherit);
+  filter: drop-shadow(1px 0px 2px currentcolor);
 }
 
 .dragongif {
